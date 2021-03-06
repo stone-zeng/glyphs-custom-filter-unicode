@@ -1,6 +1,6 @@
 # Custom Filter for Glyphs
 
-This is the Custom Filter for [GlyphsApp](https://glyphsapp.com/), where each entry is a block
+This is the [Custom Filter](https://glyphsapp.com/learn/custom-sidebar-entries-in-font-view) for Glyphs, where each entry is a block
 in Unicode 13.0. Some large and unnecessary blocks (e.g. CJK Unified Ideographs) are excluded.
 
 ## Build
